@@ -39,6 +39,8 @@
 [link target=*tag_1] →1-2 [endlink][r]
 [link target=*tag_2] →1-3 [endlink][r]
 [link target=*tag_3] →2-3 [endlink][r]
+[s]
+
 
 *tag_1
 
