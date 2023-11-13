@@ -31,7 +31,7 @@
 
 *tag_sleep
 
-[bg storage=mark_maru.jpg time=500]
+[bg storage=mark_maru.png time=500]
 
 先手:3-3![l][r]
 
@@ -43,7 +43,7 @@
 
 *tag_1
 
-[bg storage=mark_batsu.jpg time=500]
+[bg storage=mark_batsu.png time=500]
 
 先手:1-3!(ダブルリーチ！！！)[l][r]
 ダブルリーチができたから、僕の勝ちだね！[l][r]
@@ -55,7 +55,7 @@
 
 *tag_2
 
-[bg storage=mark_maru.jpg time=500]
+[bg storage=mark_maru.png time=500]
 
 先手:1-2!(リーチ！！！)[l][r]
 後手:3-2![l][r]
@@ -72,7 +72,7 @@
 
 *tag_3
 
-[bg storage=mark_batsu.jpg time=500]
+[bg storage=mark_batsu.png time=500]
 
 先手:1-3!(ダブルリーチ！！！)[l][r]
 ダブルリーチができたから、僕の勝ちだね！[l][r]
@@ -86,7 +86,7 @@
 
 *tag_run
 
-[bg storage=mark_batsu.jpg time=500]
+[bg storage=mark_batsu.png time=500]
 
 先手:1-1!(リーチ！！！)[l][r]
 後手:3-3![l][r]
