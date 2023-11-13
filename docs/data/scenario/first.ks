@@ -21,6 +21,8 @@
 
 じゃあ始めるよ！[l][r]
 
+[cm]
+
 先手:2-2!(中心)[l][r]
 
 [link target=*tag_sleep] →1-1(角) [endlink][r]
